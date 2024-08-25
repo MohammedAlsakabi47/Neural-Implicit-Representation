@@ -6,5 +6,3 @@ This repository includes Jupyter Notebooks for implementing neural implicit repr
 3. Image reconstruction from its radon transform in `#3: Image Reconstruction from Radon transform.ipynb`
 4. Image reconstruction from its non-linear radon transform in `#4 Image Reconstruction from Non-linear Radon.ipynb`
 5. Image regression with SIREN activation, found in [Implicit neural representations with periodic activation functions](https://arxiv.org/abs/2006.09661), in `#5 Neural Implicit Representation with SIREN.ipynb`
-
-### Sample Results
